@@ -52,18 +52,6 @@
       "PutRequest": {
         "Item": {
           "id": { "S": "05" },
-          "songArtist": { "S": "Michael McDonald" },
-          "songTitle": { "S": "I Keep Forgettin' (Every Time You're Near)" },
-          "genre": {"S": "Yacht Rock" },
-          "songLength": { "N": "222"
-          }
-        }
-      }
-    },
-    {
-      "PutRequest": {
-        "Item": {
-          "id": { "S": "06" },
           "songArtist": { "S": "Christopher Cross" },
           "songTitle": { "S": "Sailing" },
           "genre": {"S": "Adult Contemporary" },
@@ -75,7 +63,7 @@
     {
       "PutRequest": {
         "Item": {
-          "id": { "S": "07" },
+          "id": { "S": "06" },
           "songArtist": { "S": "Styx" },
           "songTitle": { "S": "Come Sail Away" },
           "genre": {"S": "AOR" },
@@ -87,22 +75,10 @@
     {
       "PutRequest": {
         "Item": {
-          "id": { "S": "08" },
-          "songArtist": { "S": "Limp Bizkit" },
-          "songTitle": { "S": "Nookie" },
-          "genre": {"S": "Nu Metal" },
-          "songLength": { "N": "289"
-          }
-        }
-      }
-    },
-    {
-      "PutRequest": {
-        "Item": {
-          "id": { "S": "09" },
-          "songArtist": { "S": "Nickelback" },
-          "songTitle": { "S": "Photograph" },
-          "genre": {"S": "Hard Rock" },
+          "id": { "S": "07" },
+          "songArtist": { "S": "The Beatles" },
+          "songTitle": { "S": "The Yellow Submarine" },
+          "genre": {"S": "Rock" },
           "songLength": { "N": "238"
           }
         }
@@ -111,11 +87,11 @@
     {
       "PutRequest": {
         "Item": {
-          "id": { "S": "10" },
-          "songArtist": { "S": "Sisqo" },
-          "songTitle": { "S": "Thong Song" },
-          "genre": {"S": "Hip-hop" },
-          "songLength": { "N": "233"
+          "id": { "S": "08" },
+          "songArtist": { "S": "The Cure" },
+          "songTitle": { "S": "Just Like Heaven" },
+          "genre": {"S": "Rock" },
+          "songLength": { "N": "235"
           }
         }
       }
